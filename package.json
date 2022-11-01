@@ -1,0 +1,31 @@
+{
+  "name": "ultr7a-finance",
+  "version": "1.0.0",
+  "description": "Compare your budget w/ custom acounts to actual ledgers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultr7A/finance.git"
+  },
+  "keywords": [
+    "ultra",
+    "finance",
+    "budget",
+    "ledger",
+    "account",
+    "compare"
+  ],
+  "author": "JeremyEvans <ultr7a@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultr7A/finance/issues"
+  },
+  "homepage": "https://github.com/ultr7A/finance#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "typescript": "^4.7.4"
+  }
+}
