@@ -36,22 +36,12 @@ export class Budget {
             Expenses: {
                 ...this.Liabilities
                        .Expenses__Recurring,
-                Supplements:           222.92, // #[ [[8 month] supply] of Modafinil ] 
+                Supplements:           222.92, // #[[8 months]] 
                 Equipment:            1300,    // #[ Replacement Monitor             ]
-                Vape:                  146.89, // #[ New [Vape Mod]], 'ELiquid'      ]
+                Vape:                  146.89, // #[ ]
             },
             Debts:    { 
                 VISA__ActualPayment:  2048, 
-                Repair_Walls:          250,
-                Replace_Stove:         400,
-                
-            },
-            Debt_to_Family:        {
-                Karen:                  50,
-                Jeff:                   50,
-                Leila:                  50,
-                Mom:                   400,
-                Dad:                   375
             },
         };
         
